@@ -1,0 +1,21 @@
+div{
+    height:100px;
+    width:100px;
+    margin-left:100px;
+    background-color:black;
+    margin-top:8px;
+
+}
+body{
+    background-color:darkkhaki;
+
+}
+#dr{
+    opacity:60%;
+}
+#tr{
+opacity:40%;
+}
+#cz{
+opacity:20%;
+}
